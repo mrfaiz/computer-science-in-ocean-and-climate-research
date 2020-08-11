@@ -1,0 +1,1 @@
+cd ~; petsc2nc.py 3d /sfs/fs5/home-sh/sunip565/data/mitgcm-128x64-grid-file.nc /sfs/fs5/home-sh/sunip565/model/N-DOP/option/test.N-DOP.petsc2nc.conf.yaml N-DOP.nc

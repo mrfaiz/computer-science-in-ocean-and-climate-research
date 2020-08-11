@@ -1,0 +1,7 @@
+output/*
+a.out
+*.csv
+*.mod
+*.txt
+*.pdf
+*.png
